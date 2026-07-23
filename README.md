@@ -77,8 +77,8 @@ A complete MERN-based job portal connecting recruiters and job seekers with Goog
 
 - 📧 Email: **safwanr226y@gmail.com**
 - 💻 GitHub: **https://github.com/MohdSafwan-ai**
-- 💼 LinkedIn: **Add Your LinkedIn Profile**
-- 🌍 Portfolio: **Add Your Portfolio Link**
+- 💼 LinkedIn: https://www.linkedin.com/in/mohd-safwan-649a84315/
+- 🌍 Portfolio:
 
 ---
 
